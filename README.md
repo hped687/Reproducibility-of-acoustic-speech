@@ -334,6 +334,3 @@ If you use this code, please cite the associated systematic review:
 
 Please also cite the original software and dataset resources used in any analysis, including openSMILE, Praat/Parselmouth, librosa, scikit-learn, and the authorised source of the speech/outcome data.
 
-## Licence and contact
-
-Add the project licence before public release (for example, `LICENSE`). Replace this section with the corresponding author/contact details and the final manuscript DOI or preprint link when available.
